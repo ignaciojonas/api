@@ -19,6 +19,7 @@
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 </p>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a6136ff11264425996474f1d27f74452)](https://app.codacy.com/gh/ignaciojonas/api?utm_source=github.com&utm_medium=referral&utm_content=ignaciojonas/api&utm_campaign=Badge_Grade)
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
